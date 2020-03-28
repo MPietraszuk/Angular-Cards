@@ -1,0 +1,11 @@
+:host {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.box.cards-container {
+  margin: 10px 10px 0 0;
+}
+.footer {
+  width: 100%;
+}
